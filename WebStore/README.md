@@ -1,6 +1,3 @@
-# Addlist (addlist)
-
-Official Web Addlist Media Utama
 
 ## Install the dependencies
 ```bash
