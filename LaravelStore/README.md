@@ -15,8 +15,9 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
 Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
 ## Install Database
-Buat Database dengan nama dbstore
-php artisan migrate:fresh --seed
+-Buat Database dengan nama dbstore
+<br>
+-run cmd php artisan migrate:fresh --seed
 
 ## Run
-php artisan serve
+-run cmd php artisan serve
