@@ -1,4 +1,4 @@
-Naufal Anugrah Allam NIM 1903051
+**Naufal Anugrah Allam NIM 1903051**
 
 ## Install the dependencies
 ```bash
